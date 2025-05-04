@@ -1,0 +1,4 @@
+## Data Cleaning Contribution
+
+Added `customers cleaned_data.xlsx` — final data after cleaning.
+Added `cleaned_data_queries.sql` — SQL script used for cleaning.
